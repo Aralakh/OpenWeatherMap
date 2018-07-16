@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/current_forecast"
+        android:icon="@drawable/ic_current_forecast"
+        android:title="@string/current_forecast"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/five_day_forecast"
+        android:icon="@drawable/ic_five_day_forecast"
+        android:title="@string/five_day_forecast"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>

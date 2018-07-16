@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenWeatherMap</string>
+    <string name="location_error">Unable to receive location data due to permission settings.</string>
+    <string name="exit_application">Exit app</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="forecast_date">Date:</string>
+    <string name="forecast_high">High:</string>
+    <string name="forecast_min">Low:</string>
+    <string name="five_day_forecast">5 Day Forecast</string>
+    <string name="current_forecast">Current Forecast</string>
+</resources>
